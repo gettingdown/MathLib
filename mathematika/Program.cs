@@ -42,7 +42,7 @@ namespace mathematika
                     Console.WriteLine("Error D < 0");
                 }
             }
-            Console.ReadLine();
+            Console.Read();
         }
     }
 }
